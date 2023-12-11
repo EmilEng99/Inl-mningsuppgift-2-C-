@@ -1,0 +1,14 @@
+C:\Users\emile\Desktop\C-sharp\Egna_Projekt\Repetitionsuppgift-2\bin\Debug\net8.0\Repetitionsuppgift-2.exe
+C:\Users\emile\Desktop\C-sharp\Egna_Projekt\Repetitionsuppgift-2\bin\Debug\net8.0\Repetitionsuppgift-2.deps.json
+C:\Users\emile\Desktop\C-sharp\Egna_Projekt\Repetitionsuppgift-2\bin\Debug\net8.0\Repetitionsuppgift-2.runtimeconfig.json
+C:\Users\emile\Desktop\C-sharp\Egna_Projekt\Repetitionsuppgift-2\bin\Debug\net8.0\Repetitionsuppgift-2.dll
+C:\Users\emile\Desktop\C-sharp\Egna_Projekt\Repetitionsuppgift-2\bin\Debug\net8.0\Repetitionsuppgift-2.pdb
+C:\Users\emile\Desktop\C-sharp\Egna_Projekt\Repetitionsuppgift-2\obj\Debug\net8.0\Repetitionsuppgift-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emile\Desktop\C-sharp\Egna_Projekt\Repetitionsuppgift-2\obj\Debug\net8.0\Repetitionsuppgift-2.AssemblyInfoInputs.cache
+C:\Users\emile\Desktop\C-sharp\Egna_Projekt\Repetitionsuppgift-2\obj\Debug\net8.0\Repetitionsuppgift-2.AssemblyInfo.cs
+C:\Users\emile\Desktop\C-sharp\Egna_Projekt\Repetitionsuppgift-2\obj\Debug\net8.0\Repetitionsuppgift-2.csproj.CoreCompileInputs.cache
+C:\Users\emile\Desktop\C-sharp\Egna_Projekt\Repetitionsuppgift-2\obj\Debug\net8.0\Repetitionsuppgift-2.dll
+C:\Users\emile\Desktop\C-sharp\Egna_Projekt\Repetitionsuppgift-2\obj\Debug\net8.0\refint\Repetitionsuppgift-2.dll
+C:\Users\emile\Desktop\C-sharp\Egna_Projekt\Repetitionsuppgift-2\obj\Debug\net8.0\Repetitionsuppgift-2.pdb
+C:\Users\emile\Desktop\C-sharp\Egna_Projekt\Repetitionsuppgift-2\obj\Debug\net8.0\Repetitionsuppgift-2.genruntimeconfig.cache
+C:\Users\emile\Desktop\C-sharp\Egna_Projekt\Repetitionsuppgift-2\obj\Debug\net8.0\ref\Repetitionsuppgift-2.dll
